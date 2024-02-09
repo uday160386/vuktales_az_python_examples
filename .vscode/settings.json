@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/59d90ed3-e7a1-4e10-b8be-4a38d3cdc774/resourceGroups/vuktaleswapp7_group/providers/Microsoft.Web/sites/vuktaleswapp7",
+    "appService.deploySubpath": "msdocs-python-flask-webapp-quickstart"
+}
